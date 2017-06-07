@@ -1,0 +1,4 @@
+cpp/.idea/
+cpp/cmake-build-debug/
+cpp/main.cpp
+cpp/CMakeLists.txt
